@@ -24,6 +24,11 @@ Any arrows that were previously show become hidden
 * Go to the app directory and do `npm install` or yarn install
 * Once development dependencies installed, do `npm start`
 
+##Other Scripts
+$ npm run build -> minify the app for production
+
+$ npm run test -> to run the test cases
+
 
 ### Application will be listening in the port 3000. ex: http://localhost:3000/
 
