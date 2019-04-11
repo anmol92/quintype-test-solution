@@ -25,6 +25,7 @@ Any arrows that were previously show become hidden
 * Once development dependencies installed, do `npm start`
 
 ##Other Scripts
+
 $ npm run build -> minify the app for production
 
 $ npm run test -> to run the test cases
